@@ -1,0 +1,15 @@
+/home/Juarika/Desktop/c#/diccionarios/obj/Debug/net6.0/diccionarios.csproj.AssemblyReference.cache
+/home/Juarika/Desktop/c#/diccionarios/obj/Debug/net6.0/diccionarios.GeneratedMSBuildEditorConfig.editorconfig
+/home/Juarika/Desktop/c#/diccionarios/obj/Debug/net6.0/diccionarios.AssemblyInfoInputs.cache
+/home/Juarika/Desktop/c#/diccionarios/obj/Debug/net6.0/diccionarios.AssemblyInfo.cs
+/home/Juarika/Desktop/c#/diccionarios/obj/Debug/net6.0/diccionarios.csproj.CoreCompileInputs.cache
+/home/Juarika/Desktop/c#/diccionarios/bin/Debug/net6.0/diccionarios
+/home/Juarika/Desktop/c#/diccionarios/bin/Debug/net6.0/diccionarios.deps.json
+/home/Juarika/Desktop/c#/diccionarios/bin/Debug/net6.0/diccionarios.runtimeconfig.json
+/home/Juarika/Desktop/c#/diccionarios/bin/Debug/net6.0/diccionarios.dll
+/home/Juarika/Desktop/c#/diccionarios/bin/Debug/net6.0/diccionarios.pdb
+/home/Juarika/Desktop/c#/diccionarios/obj/Debug/net6.0/diccionarios.dll
+/home/Juarika/Desktop/c#/diccionarios/obj/Debug/net6.0/refint/diccionarios.dll
+/home/Juarika/Desktop/c#/diccionarios/obj/Debug/net6.0/diccionarios.pdb
+/home/Juarika/Desktop/c#/diccionarios/obj/Debug/net6.0/diccionarios.genruntimeconfig.cache
+/home/Juarika/Desktop/c#/diccionarios/obj/Debug/net6.0/ref/diccionarios.dll
